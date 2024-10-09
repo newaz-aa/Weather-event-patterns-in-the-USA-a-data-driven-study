@@ -16,7 +16,7 @@ Each year data contains over 60,000 records. 8 years's data - so, in total aroun
 * Find the answer to some key questions like -
   1.  Which states had the highest occurrence of events?
   2.  Most frequent weather events in different states.
-  3.  Which events caused the highest number of deaths? Particular events can be observed such as debris flows in the coastal community of Montecito in Santa Barbara County, California caused more than 20 deaths.
+  3.  Which events caused the highest number of deaths? Particular events can be observed such as debris flows in the coastal community of Montecito in Santa Barbara County, California, which caused more than 20 deaths.
   4.  Which events caused the greatest damage to property?
   5.  Explore the locations and times of different events
 * Visualize the frequency and distribution of different types of weather events across regions and years.
@@ -30,6 +30,9 @@ Each year data contains over 60,000 records. 8 years's data - so, in total aroun
 * Disaster management
 * Risk assessment for insurance companies
 * Government policy recommendations
+
+### Note
+The page is currently being updated
 
 ## Screenshots
 ![events](https://github.com/newaz-aa/Weather-Event-Analysis-in-USA/blob/main/figures/events_2018.jpg)
