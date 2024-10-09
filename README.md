@@ -5,10 +5,10 @@ A data science project on analyzing the occurrence of different weather events i
 
 
 ## Screenshots
-(https://github.com/newaz-aa/Weather-Event-Analysis-in-USA/blob/main/figures/events_2018.jpg)
+![events](https://github.com/newaz-aa/Weather-Event-Analysis-in-USA/blob/main/figures/events_2018.jpg)
 
-(https://github.com/newaz-aa/Weather-Event-Analysis-in-USA/blob/main/figures/flash_flood_2018.jpg)
+![flash flood](https://github.com/newaz-aa/Weather-Event-Analysis-in-USA/blob/main/figures/flash_flood_2018.jpg)
 
-(https://github.com/newaz-aa/Weather-Event-Analysis-in-USA/blob/main/figures/property_cost.jpg)
+![property cost](https://github.com/newaz-aa/Weather-Event-Analysis-in-USA/blob/main/figures/property_cost.jpg)
 
 
