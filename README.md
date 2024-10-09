@@ -1,5 +1,5 @@
-# Weather-Event-Analysis-in-USA
-A data science project on analyzing the occurrence of different weather events in the USA from 2011-2018
+# Weather Event Patterns in the USA: A Data-Driven Study
+A data science project on analyzing the occurrence of different weather events in the USA from 2011-2018.
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2022a-blue.svg)
 
