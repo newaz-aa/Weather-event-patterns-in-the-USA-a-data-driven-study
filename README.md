@@ -41,4 +41,8 @@ The page is currently being updated
 
 ![property cost](https://github.com/newaz-aa/Weather-Event-Analysis-in-USA/blob/main/figures/property_cost.jpg)
 
+![hurricane](https://github.com/newaz-aa/Weather-event-patterns-in-the-USA-a-data-driven-study/blob/main/Hurricane%20events%20analysis/hurricane_state.png)
+
+![wordcloud](https://github.com/newaz-aa/Weather-event-patterns-in-the-USA-a-data-driven-study/blob/main/Hurricane%20events%20analysis/wordcloud.png)
+
 
