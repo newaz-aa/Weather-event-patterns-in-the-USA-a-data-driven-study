@@ -35,6 +35,8 @@ Each year data contains over 60,000 records. 8 years's data - so, in total aroun
 The page is currently being updated
 
 ## Screenshots
+![rainfall](https://github.com/newaz-aa/Weather-event-patterns-in-the-USA-a-data-driven-study/blob/main/figures/heavy_rainfall_2.gif)
+
 ![events](https://github.com/newaz-aa/Weather-Event-Analysis-in-USA/blob/main/figures/events_2018.jpg)
 
 ![flash flood](https://github.com/newaz-aa/Weather-Event-Analysis-in-USA/blob/main/figures/flash_flood_2018.jpg)
